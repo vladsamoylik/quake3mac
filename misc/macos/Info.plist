@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>quake3mac</string>
+    <key>CFBundleIconFile</key>
+    <string>quake3</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.quake3mac.Quake3mac</string>
+    <key>CFBundleName</key>
+    <string>Quake 3</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleVersion</key>
+    <string>1.32e</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.32e</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>LSMinimumSystemVersion</key>
+    <string>11.0</string>
+</dict>
+</plist>
+

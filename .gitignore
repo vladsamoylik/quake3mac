@@ -1,0 +1,9 @@
+build/
+output/
+.vs/
+.vscode/
+*.user
+cmake-*
+.idea
+.DS_Store
+.pkg-config-cache.mk
